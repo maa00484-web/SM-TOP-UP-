@@ -1,5 +1,5 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (NICKNAME)"SM TOP UP";
 // =======================================================
 var website_name = "SM TOP UP";
 
@@ -11,7 +11,8 @@ var telegram_channel_link = "telegram channel link";
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link ="
+  https://t.me/+B__yHfslErA2ODE1":
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
